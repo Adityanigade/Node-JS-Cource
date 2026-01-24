@@ -18,4 +18,4 @@ console.log(a+b);
 //for creating txt file  filr name is test1.txt
 
 var fs = require('fs');
-fs.writeFileSync("text1.txt" , "My name is Aditya ")
+fs.writeFileSync("text/text1.txt" , "My name is Aditya ")
