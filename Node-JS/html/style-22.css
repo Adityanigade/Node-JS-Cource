@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    line-height: 1.6;
+    background: #f9f9f9;
+    color: #333;
+    background-color: rgb(91, 12, 236);
+
+}
+
+/* Navbar  */
+.navbar{
+    background-color: #333;
+    color: #fff;
+height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 2rem;
+
+}
+
+.logo{
+    font-size: 1.5rem;
+
+}
+.navbar, a{
+color: #4621eb;
+
+
+}
+.hero{
+text-align: center;
+color: #fff;
+margin-top: 100px;
+font-size: large;
+padding: 20px;
+}
+
+.btn{
+height: 30px;
+
+width: 150px;
+border-radius: 3px;
+background-color: #fff;
+
+
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+    color: #fff;
+}
